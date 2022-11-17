@@ -10,7 +10,7 @@
 <img height="180em" widht="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshiProjects&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
  </a>
-<div style="display: inline_block"><br>
+<div style="display: block"><br>
 
 
   
