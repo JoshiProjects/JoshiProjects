@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou realizando um curso técnico de Desenvolvimento de Sistemas integrado ao ensino médio, em uma etec...
 - 🗿 Fora do curso técnico, estudo Java Script e planejo estudar suas principais bibliotecas ...
-- 😎 16y
+- 😎 17y
 
 <div align = "center">
 <a href="https://github.com/JoshiProjects">
