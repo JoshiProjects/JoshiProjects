@@ -1,8 +1,11 @@
 ## Bem vindo!! Eu sou o josé, mas pode me chamar de joshi
 
-- 🔭 Atualmente estou realizando um curso técnico de Desenvolvimento de Sistemas integrado ao ensino médio, em uma etec...
-- 🗿 Fora do curso técnico, estudo Java Script e planejo estudar suas principais bibliotecas ...
-- 😎 17y
+- 🔭 Atualmente estou cursando Ciências da computação na unip e sou técnico em Desenvolvimento de sistemas
+- 🗿 Além de estudar as disciplinas da universidade, estudo por hobby e visando adquirir uma primeira oportunidade na área. Tenho interesse
+em desenvolvimento mobile, front-end para web, estudo e desenvolvo algumas linguagens e blibiotecas, como dart, flutter, javascript, React
+AngularJS e pretendo cada vez mais ter uma base de conhecimento robusta e completa para que possa colocar minhas ideias em prática da melhor
+forma e assim mudar a realidade atual do nosso mundo
+- 😎 18y
 
 <div align = "center">
 <a href="https://github.com/JoshiProjects">
