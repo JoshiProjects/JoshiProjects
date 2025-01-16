@@ -5,7 +5,7 @@
 em desenvolvimento mobile, front-end para web, estudo e desenvolvo algumas linguagens e blibiotecas, como dart, flutter, javascript, React
 AngularJS e pretendo cada vez mais ter uma base de conhecimento robusta e completa para que possa colocar minhas ideias em prática da melhor
 forma e assim mudar a realidade atual do nosso mundo
-- 😎 18y
+- 😎 19y
 
 <div align = "center">
 <a href="https://github.com/JoshiProjects">
