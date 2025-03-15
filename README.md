@@ -2,8 +2,8 @@
 
 - 🔭 Atualmente estou cursando Ciências da computação na unip e sou técnico em Desenvolvimento de sistemas
 - 🗿 Além de estudar as disciplinas da universidade, estudo por hobby e visando adquirir uma primeira oportunidade na área. Tenho interesse
-em desenvolvimento Back-end, estudo e desenvolvo em algumas linguagens e blibiotecas, como Java, Spring Boot, dart, flutter, javascript, React
-AngularJS e pretendo cada vez mais ter uma base de conhecimento robusta e completa para que possa colocar minhas ideias em prática da melhor
+em desenvolvimento Back-end, estudo e desenvolvo em algumas linguagens e blibiotecas, como Java, Spring Boot, javascript, React e
+AngularJS, pretendo cada vez mais ter uma base de conhecimento robusta e completa para que possa colocar minhas ideias em prática da melhor
 forma.
 - 😎 19y
 
