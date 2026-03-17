@@ -1,7 +1,7 @@
 ## Bem vindo!! Eu sou o josé, mas pode me chamar de joshi
 
-- 🔭 Atualmente estou cursando Ciências da computação na unip e sou técnico em Desenvolvimento de sistemas
-- 🗿 Além de estudar as disciplinas da universidade, estudo por hobby e visando adquirir uma primeira oportunidade na área. Tenho interesse
+- 🔭 Atualmente estou cursando Gestão de Tecnologia da Informação na FATEC e sou técnico em Desenvolvimento de sistemas
+- 🗿 Além de estudar as disciplinas da universidade, estudo de maneira autônoma e visando adquirir uma primeira oportunidade na área. Tenho interesse
 em desenvolvimento Back-end, estudo e desenvolvo em algumas linguagens e blibiotecas, como Java, Spring Boot, javascript, React e
 AngularJS, pretendo cada vez mais ter uma base de conhecimento robusta e completa para que possa colocar minhas ideias em prática da melhor
 forma.
